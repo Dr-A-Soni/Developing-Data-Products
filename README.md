@@ -1,6 +1,6 @@
 # Developing-Data-Products
 
-# OVerview:
+# Overview:
 
 This assignment consist of task for creating a web page using R markdown that feature a map created using a Leaflet, and to Host it on Github, Rpubs or Neocities.
 
